@@ -1,0 +1,22 @@
+[
+      {
+        "id": "1",
+        "name": "Vegetarian"
+      },
+      {
+        "id": "2",
+        "name": "Fast Food"
+      },
+      {
+        "id": "3",
+        "name": "Healthy"
+      },
+      {
+        "id": "4",
+        "name": "No-Cook"
+      },
+      {
+        "id": "5",
+        "name": "Make Ahead"
+      }
+    ]

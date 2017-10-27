@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+
+    <array name="recipeTypes">
+        <item>Healty</item>
+        <item>Diet</item>
+        <item>Snack</item>
+    </array>
+    <string name="title_activity_recipehome">Recipehome</string>
+</resources>

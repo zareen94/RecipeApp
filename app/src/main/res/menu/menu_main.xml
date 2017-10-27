@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.infideap.firebaseexample.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Vegetarian"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/fastfood"
+        android:orderInCategory="100"
+        android:title="Fast Food"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/healty"
+        android:orderInCategory="100"
+        android:title="Healthy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nocook"
+        android:orderInCategory="100"
+        android:title="No-Cook"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/makeahead"
+        android:orderInCategory="100"
+        android:title="Make Ahead"
+        app:showAsAction="never" />
+</menu>
